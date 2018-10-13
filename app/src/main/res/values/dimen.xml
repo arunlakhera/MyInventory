@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_inventory -->
+    <dimen name="plus_margin">16dp</dimen>
+    <dimen name="inventory_margin">16dp</dimen>
+
+    <dimen name="layout_mar_default">16dp</dimen>
+    <dimen name="layout_mar_lar">12dp</dimen>
+    <dimen name="layout_mar_med">8dp</dimen>
+    <dimen name="layout_mar_small">4dp</dimen>
+
+    <dimen name="text_title">24sp</dimen>
+    <dimen name="text_lar">20sp</dimen>
+    <dimen name="text_med">16sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="layout_height">48dp</dimen>
+    <dimen name="button_height_small">25dp</dimen>
+    <dimen name="button_width_small">60dp</dimen>
+
+    <dimen name="button_back_width">35dp</dimen>
+    <dimen name="button_back_height">35dp</dimen>
+    <dimen name="button_delete_width">40dp</dimen>
+    <dimen name="button_delete_height">40dp</dimen>
+</resources>

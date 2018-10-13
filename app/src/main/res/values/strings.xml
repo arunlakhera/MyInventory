@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyInventory</string>
+
+    <!-- activity_inventory -->
+    <string name="empty_view_text">No Product Available. Please Add Product to inventory.</string>
+
+    <!-- Add Prodcut Activity -->
+
+    <string name="product_already_exist">Product already exists</string>
+    <string name="product_added">Product Added to Inventory</string>
+    <string name="product_name_error">Please enter product name</string>
+    <string name="product_category_error">Please enter product category</string>
+    <string name="product_quantity_error">Please enter product quantity</string>
+    <string name="product_price_error">Please enter product price</string>
+    <string name="product_supplier_name_error">Please enter supplier name</string>
+    <string name="product_supplier_phone_error">Please enter supplier Phone Number</string>
+    <string name="product_out_of_stock">Product is out of Stock</string>
+
+    <string name="label_prod_name">Product Name</string>
+    <string name="label_prod_category">Product Category</string>
+    <string name="label_prod_quantity">Product Quantity</string>
+    <string name="label_prod_price">Product Price</string>
+    <string name="label_prod_sup_name">Supplier Name</string>
+    <string name="label_prod_sup_phone">Supplier Phone Number</string>
+    <string name="button_add">Add Product</string>
+    <string name="button_sale">Sale</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_price">Price</string>
+    <string name="label_currency">Rs.</string>
+    <string name="my_inventory">My Inventory</string>
+    <string name="button_detail">Detail</string>
+    <string name="product_error">Could not retrieve product detail. Please try again!</string>
+
+    <string name="screen_add_prod">Add Product</string>
+    <string name="screen_prod_detail">Product Detail</string>
+    <string name="screen_prod_order">Product Order</string>
+    <string name="added_dialog_msg">Product has been added. Do you want to add another product?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit">Edit</string>
+    <string name="button_order">Order</string>
+    <string name="delete_msg">Do You want to delete the Product?</string>
+    <string name="prod_deleted">Product Deleted</string>
+    <string name="order_more">Order More</string>
+    <string name="order_error_msg">Please check the Quantity for new order.</string>
+    <string name="order_placed_msg">Your order has been successfully placed.</string>
+
+</resources>
